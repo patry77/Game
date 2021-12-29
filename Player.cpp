@@ -4,6 +4,7 @@
  Player::Player(Texture *texture, Vector2u image_count, float switch_time)
  : animation(texture, image_count, switch_time){
     row = 0;
+    body.setOrigin(body.getSize() / 2.0f);
     body.setSize(Vector2f(64.0f, 64.0f));
     body.setPosition(960.f, 540.f);
     body.setTexture(texture);

@@ -176,6 +176,30 @@ Map.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/Map.cpp.s
 .PHONY : Map.cpp.s
 
+NPC.obj: NPC.cpp.obj
+.PHONY : NPC.obj
+
+# target to build an object file
+NPC.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/NPC.cpp.obj
+.PHONY : NPC.cpp.obj
+
+NPC.i: NPC.cpp.i
+.PHONY : NPC.i
+
+# target to preprocess a source file
+NPC.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/NPC.cpp.i
+.PHONY : NPC.cpp.i
+
+NPC.s: NPC.cpp.s
+.PHONY : NPC.s
+
+# target to generate assembly for a file
+NPC.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/NPC.cpp.s
+.PHONY : NPC.cpp.s
+
 Player.obj: Player.cpp.obj
 .PHONY : Player.obj
 
@@ -239,6 +263,9 @@ help:
 	@echo ... Map.obj
 	@echo ... Map.i
 	@echo ... Map.s
+	@echo ... NPC.obj
+	@echo ... NPC.i
+	@echo ... NPC.s
 	@echo ... Player.obj
 	@echo ... Player.i
 	@echo ... Player.s
