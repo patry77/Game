@@ -676,11 +676,35 @@ SFML/Config.hpp
 
 C:/SFML/include/SFML/Window/WindowStyle.hpp
 
-C:/Users/laptop/Desktop/sutdia/Game/Animation.cpp
-Animation.h
-C:/Users/laptop/Desktop/sutdia/Game/Animation.h
-
 C:/Users/laptop/Desktop/sutdia/Game/Animation.h
 SFML/Graphics.hpp
 -
+
+C:/Users/laptop/Desktop/sutdia/Game/Map.h
+SFML/Graphics.hpp
+-
+
+C:/Users/laptop/Desktop/sutdia/Game/Player.cpp
+iostream
+-
+Player.h
+C:/Users/laptop/Desktop/sutdia/Game/Player.h
+
+C:/Users/laptop/Desktop/sutdia/Game/Player.h
+Animation.h
+C:/Users/laptop/Desktop/sutdia/Game/Animation.h
+SFML/Graphics.hpp
+-
+
+C:/Users/laptop/Desktop/sutdia/Game/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+SFML/Window.hpp
+-
+Player.h
+C:/Users/laptop/Desktop/sutdia/Game/Player.h
+Map.h
+C:/Users/laptop/Desktop/sutdia/Game/Map.h
 

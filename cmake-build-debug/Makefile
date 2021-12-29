@@ -152,6 +152,30 @@ Animation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/Animation.cpp.s
 .PHONY : Animation.cpp.s
 
+Map.obj: Map.cpp.obj
+.PHONY : Map.obj
+
+# target to build an object file
+Map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/Map.cpp.obj
+.PHONY : Map.cpp.obj
+
+Map.i: Map.cpp.i
+.PHONY : Map.i
+
+# target to preprocess a source file
+Map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/Map.cpp.i
+.PHONY : Map.cpp.i
+
+Map.s: Map.cpp.s
+.PHONY : Map.s
+
+# target to generate assembly for a file
+Map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game.dir\build.make CMakeFiles/Game.dir/Map.cpp.s
+.PHONY : Map.cpp.s
+
 Player.obj: Player.cpp.obj
 .PHONY : Player.obj
 
@@ -212,6 +236,9 @@ help:
 	@echo ... Animation.obj
 	@echo ... Animation.i
 	@echo ... Animation.s
+	@echo ... Map.obj
+	@echo ... Map.i
+	@echo ... Map.s
 	@echo ... Player.obj
 	@echo ... Player.i
 	@echo ... Player.s

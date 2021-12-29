@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/Animation.h">
 			<Option target="Game"/>
 		</Unit>
+		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/Map.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/Map.h">
+			<Option target="Game"/>
+		</Unit>
 		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/Player.cpp">
 			<Option target="Game"/>
 		</Unit>

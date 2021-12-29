@@ -17,7 +17,7 @@ private:
     RectangleShape body;
     Animation animation;
     unsigned int row;
-    float walk_speed { 100.0f };
+    float walk_speed { 500.0f };
     bool face_right;
 
     void draw(RenderTarget &target, RenderStates state) const override;

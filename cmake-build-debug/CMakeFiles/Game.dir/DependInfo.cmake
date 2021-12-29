@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/laptop/Desktop/sutdia/Game/Animation.cpp" "C:/Users/laptop/Desktop/sutdia/Game/cmake-build-debug/CMakeFiles/Game.dir/Animation.cpp.obj"
+  "C:/Users/laptop/Desktop/sutdia/Game/Map.cpp" "C:/Users/laptop/Desktop/sutdia/Game/cmake-build-debug/CMakeFiles/Game.dir/Map.cpp.obj"
   "C:/Users/laptop/Desktop/sutdia/Game/Player.cpp" "C:/Users/laptop/Desktop/sutdia/Game/cmake-build-debug/CMakeFiles/Game.dir/Player.cpp.obj"
   "C:/Users/laptop/Desktop/sutdia/Game/main.cpp" "C:/Users/laptop/Desktop/sutdia/Game/cmake-build-debug/CMakeFiles/Game.dir/main.cpp.obj"
   )

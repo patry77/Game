@@ -3,7 +3,7 @@ project(Game)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Game main.cpp Player.cpp Player.h Animation.cpp Animation.h)
+add_executable(Game main.cpp Player.cpp Player.h Animation.cpp Animation.h Map.cpp Map.h)
 
 ##### SFML #####
 set(SFML__STATIC_LIBRARIES TRUE)
