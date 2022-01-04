@@ -4,7 +4,7 @@
 #include "Animation.h"
 #include <SFML/Graphics.hpp>
 using namespace sf;
-//okeeeeeeeeeeee
+
 class NPC: public sf::Drawable {
 public:
     NPC(Texture *texture);
