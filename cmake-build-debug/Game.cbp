@@ -94,6 +94,12 @@
 		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/Map.h">
 			<Option target="Game"/>
 		</Unit>
+		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/Menu.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/Menu.h">
+			<Option target="Game"/>
+		</Unit>
 		<Unit filename="C:/Users/laptop/Desktop/sutdia/Game/NPC.cpp">
 			<Option target="Game"/>
 		</Unit>

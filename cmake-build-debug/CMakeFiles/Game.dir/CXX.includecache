@@ -684,11 +684,27 @@ C:/Users/laptop/Desktop/sutdia/Game/Map.h
 SFML/Graphics.hpp
 -
 
-C:/Users/laptop/Desktop/sutdia/Game/Player.cpp
-iostream
+C:/Users/laptop/Desktop/sutdia/Game/Menu.cpp
+Menu.h
+C:/Users/laptop/Desktop/sutdia/Game/Menu.h
+
+C:/Users/laptop/Desktop/sutdia/Game/Menu.h
+SFML/Graphics.hpp
 -
-Player.h
-C:/Users/laptop/Desktop/sutdia/Game/Player.h
+
+C:/Users/laptop/Desktop/sutdia/Game/NPC.cpp
+NPC.h
+C:/Users/laptop/Desktop/sutdia/Game/NPC.h
+cstdlib
+-
+ctime
+-
+
+C:/Users/laptop/Desktop/sutdia/Game/NPC.h
+Animation.h
+C:/Users/laptop/Desktop/sutdia/Game/Animation.h
+SFML/Graphics.hpp
+-
 
 C:/Users/laptop/Desktop/sutdia/Game/Player.h
 Animation.h
@@ -701,10 +717,12 @@ iostream
 -
 SFML/Graphics.hpp
 -
-SFML/Window.hpp
--
 Player.h
 C:/Users/laptop/Desktop/sutdia/Game/Player.h
 Map.h
 C:/Users/laptop/Desktop/sutdia/Game/Map.h
+Menu.h
+C:/Users/laptop/Desktop/sutdia/Game/Menu.h
+NPC.h
+C:/Users/laptop/Desktop/sutdia/Game/NPC.h
 
