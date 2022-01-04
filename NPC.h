@@ -5,6 +5,8 @@
 #include <SFML/Graphics.hpp>
 using namespace sf;
 
+//Test gita
+
 class NPC: public sf::Drawable {
 public:
     NPC(Texture *texture);
