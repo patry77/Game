@@ -11,7 +11,8 @@ class NPC: public sf::Drawable {
 public:
     NPC(Texture *texture);
     ~NPC() override = default;
-
+    float rand_x;
+    float rand_y;
     float pos_x=0.0f;
     float pos_y=0.0f;
 
