@@ -14,6 +14,7 @@ NPC::NPC(Texture *texture){
     body_npc.setTexture(texture);
 }
 
+
 void NPC::draw(RenderTarget &target, RenderStates state) const {
     target.draw(this->body_npc, state);
 }
