@@ -1,3 +1,3 @@
-C:/Users/laptop/Desktop/sutdia/Game/cmake-build-debug/CMakeFiles/Game.dir
-C:/Users/laptop/Desktop/sutdia/Game/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/laptop/Desktop/sutdia/Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rakso/Desktop/Gra PI/Game/cmake-build-debug/CMakeFiles/Game.dir
+C:/Users/rakso/Desktop/Gra PI/Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rakso/Desktop/Gra PI/Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
